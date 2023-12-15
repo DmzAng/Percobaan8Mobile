@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20382342029",
+    "project_id": "percobaan8-f55122001",
+    "storage_bucket": "percobaan8-f55122001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20382342029:android:522492087beece6bda7bc4",
+        "android_client_info": {
+          "package_name": "com.praktikum.percobaan8_f55122001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrvQh321yAupzDOEXoL71udyH7ykGOy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
